@@ -1,0 +1,39 @@
+{
+  "short_name": "M7D PLATFORMS",
+  "name": "M7D PLATFORMS",
+  "description": "منصات المطور والمبرمج تانجيرو",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/NgK2QTW9/image.jpg", // أيقونة 192x192
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/NgK2QTW9/image.jpg", // أيقونة 512x512
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000000",
+  "shortcuts": [
+    {
+      "name": "M&D",
+      "short_name": "media download",
+      "description": "منصات المطور والمبرمج تانجيرو",
+      "url": "https://m7d-platforms.vercel.app/",
+      "icons": [
+        {
+          "src": "https://i.ibb.co/NgK2QTW9/image.jpg", // أيقونة الاختصار
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
